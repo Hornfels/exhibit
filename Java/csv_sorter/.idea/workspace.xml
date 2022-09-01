@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60d18cbd-7070-4f49-81ad-033f04c84756" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/test/java/cz/muni/fi/pb162/hw03/ApplicationTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/cz/muni/fi/pb162/hw03/TestUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/010/data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/010/filters.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/010/out/birds.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/010/out/eggs.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/010/out/everything.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/010/out/koníci.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/010/out/social.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/020/data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/020/filters.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/020/out/birds.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/020/out/eggs.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/020/out/everything.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/020/out/koníci.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/020/out/social.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/030/data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/030/filters.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/030/out/birds.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/030/out/eggs.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/030/out/everything.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/030/out/koníci.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/030/out/social.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/040/data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/040/filters.csv" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="29IHws5LgDWKUUPuKRcwspBXZ5d" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.All in homework03-2022">
+    <configuration name="ApplicationRunner" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cz.muni.fi.pb162.hw03.impl.ApplicationRunner" />
+      <module name="homework03-2022" />
+      <option name="PROGRAM_PARAMETERS" value="-i &quot;C:\Moje soubory\MUNI\javaRepa\hw03Files\input.csv&quot; -f &quot;C:\Moje soubory\MUNI\javaRepa\hw03Files\filters.csv&quot; -o &quot;C:\Moje soubory\MUNI\javaRepa\hw03Files&quot;" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.muni.fi.pb162.hw03.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in homework03-2022" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework03-2022" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTest.sortsCsvWithISO88592" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework03-2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cz.muni.fi.pb162.hw03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cz.muni.fi.pb162.hw03" />
+      <option name="MAIN_CLASS_NAME" value="cz.muni.fi.pb162.hw03.ApplicationTest" />
+      <option name="METHOD_NAME" value="sortsCsvWithISO88592(java.nio.file.Path)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in homework03-2022" />
+        <item itemvalue="JUnit.ApplicationTest.sortsCsvWithISO88592" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60d18cbd-7070-4f49-81ad-033f04c84756" name="Changes" comment="" />
+      <created>1652793923493</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1652793923493</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/cz/muni/fi/pb162/hw03/ApplicationTest.java</url>
+          <line>86</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="((Article)labeled).labels" custom="cz.muni.fi.pb162.hw03.impl.Article" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
